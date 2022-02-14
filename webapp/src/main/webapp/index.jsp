@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Aplicação de teste CICD</h1>
+    <h1>Aplicacao de teste CICD</h1>
     <p>Preencha o formulário abaixo.</p>
     <hr>
      
@@ -18,10 +18,10 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Já tem uma conta <a href="#">Logar</a>.</p>
+    <p>Ja tem uma conta <a href="#">Logar</a>.</p>
   </div>
 
-   <h1> Att </h1>
+   <h1> Obrigado! </h1>
 
   
 </form>
